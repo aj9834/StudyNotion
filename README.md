@@ -2,12 +2,12 @@
 Tech Stack: React, JavaScript, HTML, CSS, Firebase (or backend service used)
 
 # Project Overview:
-Developed a fully functional course-selling website with authentication, course management, and user dashboard.
-Implemented user authentication with login and signup functionality.
-Designed a responsive UI for home, about, contact, and dashboard pages.
+Developed a fully functional course-selling website with authentication, course management, and user dashboard </br>
+Implemented user authentication with login and signup functionality. </br>
+Designed a responsive UI for home, about, contact, and dashboard pages. </br>
 
 # Key Features:
-Course Exploration & Filtering: Users can explore courses by category and apply filters.
+# Course Exploration & Filtering: Users can explore courses by category and apply filters.</br>
 Dashboard Management: Users can add courses to their dashboard, where they can view and remove them.
 Contact Form Integration: Users can submit inquiries with name, email, phone number, subject, message, and file attachment, which are sent directly to email.
 Student Testimonials: Displayed feedback from students for credibility.

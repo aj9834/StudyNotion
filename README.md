@@ -1,4 +1,16 @@
-# Studynotion website 
+ # Studynotion website 
 # Home Page
-Screenshot (5168).png
+![Image](https://github.com/user-attachments/assets/f90301a4-2ac9-4855-9854-19821f188617)
+# dashBoard
+![Image](https://github.com/user-attachments/assets/a2103d38-c481-4492-9f46-95f2b4c50679) 
+![Image](https://github.com/user-attachments/assets/4a60b60f-b3b7-414d-9d1c-47ecef69b463)  
+# About
+![Image](https://github.com/user-attachments/assets/f565bd47-0475-43bf-b1cc-729c7ba03991) 
 
+# login page
+![Image](https://github.com/user-attachments/assets/c7dcd942-49a9-4a5a-9fe9-dfd8c3f133c8) 
+Sign up 
+![Image](https://github.com/user-attachments/assets/784e4358-937e-4299-b9f5-046336a8c291)
+
+Contact page
+![Image](https://github.com/user-attachments/assets/529811a8-4d03-4320-bae4-4b9781a0ea0b)

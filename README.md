@@ -7,7 +7,7 @@ Implemented user authentication with login and signup functionality. </br>
 Designed a responsive UI for home, about, contact, and dashboard pages. </br>
 
 # Key Features:
-# Course Exploration & Filtering: Users can explore courses by category and apply filters.</br>
+<mark>Course Exploration & Filtering:</mark> Users can explore courses by category and apply filters.</br>
 Dashboard Management: Users can add courses to their dashboard, where they can view and remove them. </br>
 Contact Form Integration: Users can submit inquiries with name, email, phone number, subject, message, and file attachment, which are sent directly to email.</br>
 Student Testimonials: Displayed feedback from students for credibility.</br>

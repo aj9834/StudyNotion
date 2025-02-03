@@ -8,10 +8,10 @@ Designed a responsive UI for home, about, contact, and dashboard pages. </br>
 
 # Key Features:
 # Course Exploration & Filtering: Users can explore courses by category and apply filters.</br>
-Dashboard Management: Users can add courses to their dashboard, where they can view and remove them.
-Contact Form Integration: Users can submit inquiries with name, email, phone number, subject, message, and file attachment, which are sent directly to email.
-Student Testimonials: Displayed feedback from students for credibility.
-Dynamic UI & Navigation: Included a navbar, footer, and structured content sections for seamless navigation.
+Dashboard Management: Users can add courses to their dashboard, where they can view and remove them. </br>
+Contact Form Integration: Users can submit inquiries with name, email, phone number, subject, message, and file attachment, which are sent directly to email.</br>
+Student Testimonials: Displayed feedback from students for credibility.</br>
+Dynamic UI & Navigation: Included a navbar, footer, and structured content sections for seamless navigation.</br>
 
 # Home Page
 ![Image](https://github.com/user-attachments/assets/f90301a4-2ac9-4855-9854-19821f188617)

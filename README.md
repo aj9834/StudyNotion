@@ -1,5 +1,5 @@
 # StudyNotion - Course Selling Platform
-Tech Stack: React, JavaScript, HTML, CSS, Firebase (or backend service used)
+Tech Stack: React, JavaScript, HTML, CSS
 
 # Project Overview:
 Developed a fully functional course-selling website with authentication, course management, and user dashboard </br>
@@ -20,7 +20,8 @@ Designed a responsive UI for home, about, contact, and dashboard pages. </br>
 ![Image](https://github.com/user-attachments/assets/4a60b60f-b3b7-414d-9d1c-47ecef69b463)  
 # About
 ![Image](https://github.com/user-attachments/assets/f565bd47-0475-43bf-b1cc-729c7ba03991) 
-
+# Testimonials section
+![Image](https://github.com/user-attachments/assets/55534dc2-8515-4214-af80-1f2d45e828b7)
 # login page
 ![Image](https://github.com/user-attachments/assets/c7dcd942-49a9-4a5a-9fe9-dfd8c3f133c8) 
 # Sign up 
